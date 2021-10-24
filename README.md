@@ -1,5 +1,5 @@
 # Truth_tables_Qt
-Application to create truth tables for differrent expressions, using language C and opportunities of Qt framework. 
+### Application to create truth tables for differrent expressions, using language C and opportunities of Qt framework. 
 
 The algorithm of making a postfix expression is based on algorithm of sorting stations, all priorities of operators and existence of brakes are considered to create correct Truth table.
  
@@ -7,3 +7,10 @@ If expression is not correct program will show a message with description of wro
 
 It is first big(for me) project and of course the are moments that should be written better
 
+## Examples of working
+
+### Correct work!
+![Im1](./images/1.jpg)
+
+### Correct work!
+![Im2](./images/2.jpg)
